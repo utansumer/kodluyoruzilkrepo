@@ -1,6 +1,6 @@
 # Kodluyoruz Ilk Repo
 
-![Proje resmi](C:\Users\ASUS\OneDrive\Resimler\Ekran Görüntüleri\2023-02-19 (12).png)
+![Proje resmi](https://user-images.githubusercontent.com/123985366/221379179-1583b7b7-5ba5-42ae-9e55-08e4d4192963.png)
 
 Bu repo [Kodluyoruz](https://kodluyoruz.org) Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
